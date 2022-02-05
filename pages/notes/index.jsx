@@ -1,3 +1,4 @@
+// pages/notes/index.jsx
 /** @jsx jsx */
 import { jsx } from 'theme-ui'
 import Link from 'next/link'
